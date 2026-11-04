@@ -6,4 +6,7 @@
     <Project Path="src/Infrastructure/Infrastructure.csproj" />
     <Project Path="src/Presentation.BSA/Presentation.BSA.csproj" />
   </Folder>
+  <Folder Name="/tst/">
+    <Project Path="tst/Application.UnitTests/Application.UnitTests.csproj" />
+  </Folder>
 </Solution>

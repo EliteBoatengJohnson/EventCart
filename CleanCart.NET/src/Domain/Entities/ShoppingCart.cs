@@ -8,6 +8,7 @@ public class ShoppingCart(Guid customerId)
     public Guid CustomerId {get;} = customerId;
 
     // Preserve encapsulation via a read-only view
+    //of the mutable list of items.
     public IReadOnlyCollection<ShoppingCartItem> Items => _items.AsReadOnly();
 
     // Keep the mutable list private
