@@ -8,5 +8,6 @@
   </Folder>
   <Folder Name="/tst/">
     <Project Path="tst/Application.UnitTests/Application.UnitTests.csproj" />
+    <Project Path="tst/Domain.UnitTests/Domain.UnitTests.csproj" />
   </Folder>
 </Solution>

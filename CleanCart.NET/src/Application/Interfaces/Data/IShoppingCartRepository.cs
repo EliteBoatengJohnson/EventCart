@@ -4,6 +4,6 @@ namespace Application.Interfaces.Data;
 
 public interface IShoppingCartRepository
 {
-    Task<ShoppingCart?> GetByCustomeIdAsync(Guid customerId);
+    Task<ShoppingCart?> GetByCustomerIdAsync(Guid customerId);
     Task SaveAsync(ShoppingCart shoppingcart);
 }

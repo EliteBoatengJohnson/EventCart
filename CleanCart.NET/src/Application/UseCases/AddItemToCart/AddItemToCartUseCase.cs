@@ -17,7 +17,7 @@ public class AddItemToCartUseCase(IShoppingCartRepository shoppingCartRepository
 
 
         // Retrieve the shopping cart for the customer
-        var shoppingCart = await shoppingCartRepository.GetByCustomeIdAsync(input.CustomerId) ?? new ShoppingCart(input.CustomerId);
+        var shoppingCart = await shoppingCartRepository.GetByCustomerIdAsync(input.CustomerId) ?? new ShoppingCart(input.CustomerId);
 
         // Add the product to the shopping cart
         shoppingCart.AddItem(product.Id, product.Name, product.Price, input.Quantity);
