@@ -1,0 +1,16 @@
+/workspaces/EventCart/CleanCart.NET/src/Domain/bin/Debug/net10.0/Domain.deps.json
+/workspaces/EventCart/CleanCart.NET/src/Domain/bin/Debug/net10.0/Domain.dll
+/workspaces/EventCart/CleanCart.NET/src/Domain/bin/Debug/net10.0/Domain.pdb
+/workspaces/EventCart/CleanCart.NET/src/Domain/bin/Debug/net10.0/Common.dll
+/workspaces/EventCart/CleanCart.NET/src/Domain/bin/Debug/net10.0/Common.pdb
+/workspaces/EventCart/CleanCart.NET/src/Domain/obj/Debug/net10.0/Domain.csproj.AssemblyReference.cache
+/workspaces/EventCart/CleanCart.NET/src/Domain/obj/Debug/net10.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/EventCart/CleanCart.NET/src/Domain/obj/Debug/net10.0/Domain.AssemblyInfoInputs.cache
+/workspaces/EventCart/CleanCart.NET/src/Domain/obj/Debug/net10.0/Domain.AssemblyInfo.cs
+/workspaces/EventCart/CleanCart.NET/src/Domain/obj/Debug/net10.0/Domain.csproj.CoreCompileInputs.cache
+/workspaces/EventCart/CleanCart.NET/src/Domain/obj/Debug/net10.0/Domain.sourcelink.json
+/workspaces/EventCart/CleanCart.NET/src/Domain/obj/Debug/net10.0/Domain.csproj.Up2Date
+/workspaces/EventCart/CleanCart.NET/src/Domain/obj/Debug/net10.0/Domain.dll
+/workspaces/EventCart/CleanCart.NET/src/Domain/obj/Debug/net10.0/refint/Domain.dll
+/workspaces/EventCart/CleanCart.NET/src/Domain/obj/Debug/net10.0/Domain.pdb
+/workspaces/EventCart/CleanCart.NET/src/Domain/obj/Debug/net10.0/ref/Domain.dll

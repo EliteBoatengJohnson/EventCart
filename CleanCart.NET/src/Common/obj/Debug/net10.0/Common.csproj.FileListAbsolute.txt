@@ -1,0 +1,12 @@
+/workspaces/EventCart/CleanCart.NET/src/Common/bin/Debug/net10.0/Common.deps.json
+/workspaces/EventCart/CleanCart.NET/src/Common/bin/Debug/net10.0/Common.dll
+/workspaces/EventCart/CleanCart.NET/src/Common/bin/Debug/net10.0/Common.pdb
+/workspaces/EventCart/CleanCart.NET/src/Common/obj/Debug/net10.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/EventCart/CleanCart.NET/src/Common/obj/Debug/net10.0/Common.AssemblyInfoInputs.cache
+/workspaces/EventCart/CleanCart.NET/src/Common/obj/Debug/net10.0/Common.AssemblyInfo.cs
+/workspaces/EventCart/CleanCart.NET/src/Common/obj/Debug/net10.0/Common.csproj.CoreCompileInputs.cache
+/workspaces/EventCart/CleanCart.NET/src/Common/obj/Debug/net10.0/Common.sourcelink.json
+/workspaces/EventCart/CleanCart.NET/src/Common/obj/Debug/net10.0/Common.dll
+/workspaces/EventCart/CleanCart.NET/src/Common/obj/Debug/net10.0/refint/Common.dll
+/workspaces/EventCart/CleanCart.NET/src/Common/obj/Debug/net10.0/Common.pdb
+/workspaces/EventCart/CleanCart.NET/src/Common/obj/Debug/net10.0/ref/Common.dll
