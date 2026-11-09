@@ -6,4 +6,5 @@ public interface IShoppingCartRepository
 {
     Task<ShoppingCart?> GetByCustomerIdAsync(Guid customerId);
     Task SaveAsync(ShoppingCart shoppingcart);
+
 }

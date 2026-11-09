@@ -28,5 +28,17 @@ public class ShoppingCart(Guid customerId)
             // Add a new item to the cart
             _items.Add(new ShoppingCartItem(productId, productName, productPrice, quantity));
         }
+
+
+
     }
-}
+
+    public void RemoveItem(Guid productId , int quantity)
+    {
+        var ExistingItem = _items.SingleOrDefault( i => i.ProductId == productId);
+        if (ExistingItem is not null)
+        {
+            _items.Remove(ExistingItem);
+        }
+    }
+}   
