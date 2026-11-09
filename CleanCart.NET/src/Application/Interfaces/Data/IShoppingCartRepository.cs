@@ -7,4 +7,6 @@ public interface IShoppingCartRepository
     Task<ShoppingCart?> GetByCustomerIdAsync(Guid customerId);
     Task SaveAsync(ShoppingCart shoppingcart);
 
+    Task DeleteAsync(Guid userId);
+
 }
